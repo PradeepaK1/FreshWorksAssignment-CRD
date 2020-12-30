@@ -9,6 +9,9 @@ Open Terminal from anaconda navigator's jupyter lab and type the commands
 pip install streamlit
 streamlit run code.py
 and type the number modes and specific argument (no syntax required)
+
 Here method 1 is completed for all three operations Create, Read, Delete
+
 Method 2 and 3 is done partially for creating records and filing in JSON and TXT files seperately for later retrieval
+
 Working and executing details are mentioned in respective method folders
