@@ -3,9 +3,9 @@
 
 This repository contains the CRD operations for creating, reading and deleting records with specific constraints This is achieved in three ways
 
-    General kernel mode in Python IDLE : Open your PYTHON IDLE and run the code.py file and type the function specific lines for execution (proper syntax required)
-    General file input output mode in Python IDLE or Command Prompt: Open your PYTHON IDLE and run the code.py file and type the number modes and specific argument (no syntax required)
-    Python with Streamlit, a UI to the app: Open Terminal from anaconda navigator's jupyter lab and type the commands pip install streamlit streamlit run code.py and type the number modes and specific argument (no syntax required)
+General kernel mode in Python IDLE : Open your PYTHON IDLE and run the code.py file and type the function specific lines for execution (proper syntax required)
+General file input output mode in Python IDLE or Command Prompt: Open your PYTHON IDLE and run the code.py file and type the number modes and specific argument (no syntax required)
+Python with Streamlit, a UI to the app: Open Terminal from anaconda navigator's jupyter lab and type the commands pip install streamlit streamlit run code.py and type the number modes and specific argument (no syntax required)
 
 Here method 1 is completed for all three operations Create, Read, Delete
 
